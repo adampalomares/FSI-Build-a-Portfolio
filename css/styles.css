@@ -1,0 +1,23 @@
+.Main {
+    border: 10px solid;
+    border-color: grey;
+    text-align: center;
+}
+body {
+   background-color: orange; 
+}
+
+.image img {
+    border: 10px solid;
+    border-color: grey;
+    text-align: center;
+    border-radius: 30px
+}
+
+body {
+    font-family: cursive;
+}
+
+body {
+    cursor: crosshair; 
+}
